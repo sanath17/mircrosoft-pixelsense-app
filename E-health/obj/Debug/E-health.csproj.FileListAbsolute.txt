@@ -1,0 +1,23 @@
+C:\Users\sai-sanath\Documents\Visual Studio 2010\Projects\E-health\E-health\bin\Debug\Resources\icon.png
+C:\Users\sai-sanath\Documents\Visual Studio 2010\Projects\E-health\E-health\bin\Debug\E-health.xml
+C:\Users\sai-sanath\Documents\Visual Studio 2010\Projects\E-health\E-health\bin\Debug\E-health.exe
+C:\Users\sai-sanath\Documents\Visual Studio 2010\Projects\E-health\E-health\bin\Debug\E-health.pdb
+C:\Users\sai-sanath\Documents\Visual Studio 2010\Projects\E-health\E-health\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sai-sanath\Documents\Visual Studio 2010\Projects\E-health\E-health\obj\Debug\SurfaceWindow1.baml
+C:\Users\sai-sanath\Documents\Visual Studio 2010\Projects\E-health\E-health\obj\Debug\UserVisualization.baml
+C:\Users\sai-sanath\Documents\Visual Studio 2010\Projects\E-health\E-health\obj\Debug\App.baml
+C:\Users\sai-sanath\Documents\Visual Studio 2010\Projects\E-health\E-health\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\sai-sanath\Documents\Visual Studio 2010\Projects\E-health\E-health\obj\Debug\UserVisualization.g.cs
+C:\Users\sai-sanath\Documents\Visual Studio 2010\Projects\E-health\E-health\obj\Debug\App.g.cs
+C:\Users\sai-sanath\Documents\Visual Studio 2010\Projects\E-health\E-health\obj\Debug\E-health_Content.g.cs
+C:\Users\sai-sanath\Documents\Visual Studio 2010\Projects\E-health\E-health\obj\Debug\E-health_MarkupCompile.cache
+C:\Users\sai-sanath\Documents\Visual Studio 2010\Projects\E-health\E-health\obj\Debug\E-health.g.resources
+C:\Users\sai-sanath\Documents\Visual Studio 2010\Projects\E-health\E-health\obj\Debug\E_health.Properties.Resources.resources
+C:\Users\sai-sanath\Documents\Visual Studio 2010\Projects\E-health\E-health\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\sai-sanath\Documents\Visual Studio 2010\Projects\E-health\E-health\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\sai-sanath\Documents\Visual Studio 2010\Projects\E-health\E-health\obj\Debug\E-health.exe
+C:\Users\sai-sanath\Documents\Visual Studio 2010\Projects\E-health\E-health\obj\Debug\E-health.pdb
+C:\Users\sai-sanath\Documents\Visual Studio 2010\Projects\E-health\E-health\obj\Debug\GenerateResource.read.0.tlog
+C:\Users\sai-sanath\Documents\Visual Studio 2010\Projects\E-health\E-health\obj\Debug\GenerateResource.write.0.tlog
+C:\Users\Nagendra\Desktop\nag project\E-health\E-health\obj\Debug\E-health.exe
+C:\Users\Nagendra\Desktop\nag project\E-health\E-health\obj\Debug\E-health.pdb
